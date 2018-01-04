@@ -1,4 +1,4 @@
-trash-cli (bash,zsh)wesdfasdfasdf
+trash-cli (bash,zsh)
 ======================
 
     $ git clone https://github.com/emanon-was/trash-cli.git
